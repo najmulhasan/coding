@@ -1,0 +1,16 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.profile-color{
+color:orangered;
+}
+.half{
+    width: 50%;
+    float: left;
+    margin-top: 5%;
+    margin-bottom: 3%;
+    
+}
+.half img{
+    width:100%;
+}
